@@ -9,24 +9,7 @@ Explore the interactive design:
 ## 🧠 User Persona
 Security engineers responsible for investigating and resolving cloud security alerts and managing IAM permissions.
 
----
 
-## 📄 Deliverables
-
-### 📌 Figma Link
-Interactive prototype (above)
-
-### 📌 Wireframe Screenshots
-These images were exported from Figma for quick preview.
-## 🖼 Wireframes
-
-### Dashboard
-![Dashboard](wireframes/screen1.png)
-
-### Alert Investigation
-![Alert Investigation](wireframes/screen2.png)
-cloud-security-assignment/
-│
 ├── README.md
 ├── wireframes/
 │   ├── screen1.png
