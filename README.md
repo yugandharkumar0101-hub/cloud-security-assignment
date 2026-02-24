@@ -21,10 +21,10 @@ These images were exported from Figma for quick preview.
 ## 🖼 Wireframes
 
 ### Dashboard
-![Dashboard](wireframess/screen1.png)
+![Dashboard](wireframes/screen1.png)
 
 ### Alert Investigation
-![Alert Investigation](wireframess/screen2.png)
+![Alert Investigation](wireframes/screen2.png)
 
 
 
