@@ -1,5 +1,4 @@
 # cloud-security-assignment
-# Cloud Security Assignment – UI Design
 
 ## 🔗 Figma Prototype
 Explore the interactive design:
