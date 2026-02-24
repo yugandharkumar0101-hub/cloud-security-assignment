@@ -18,3 +18,14 @@ Interactive prototype (above)
 
 ### 📌 Wireframe Screenshots
 These images were exported from Figma for quick preview.
+
+### 🖼 Wireframes
+
+#### Dashboard View
+![Dashboard View](wireframes/screen1.png)
+
+#### Alert Investigation
+![Alert Investigation](wireframes/screen2.png)
+
+#### IAM Explorer
+![IAM Explorer](wireframes/screen3.png)
