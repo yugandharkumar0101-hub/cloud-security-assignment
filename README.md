@@ -22,7 +22,7 @@ These images were exported from Figma for quick preview.
 ### 🖼 Wireframes
 
 #### Dashboard View
-![Dashboard View](wireframes/screen1.png)
+![Dashboard View](screen 1.JPG)
 
 #### Alert Investigation
 ![Alert Investigation](wireframes/screen2.png)
