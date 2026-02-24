@@ -10,11 +10,7 @@ Explore the interactive design:
 Security engineers responsible for investigating and resolving cloud security alerts and managing IAM permissions.
 
 
-├── README.md
-├── wireframes/
-│   ├── screen1.png
-│   ├── screen2.png
-│   └── screen3.png
+
 
 
 
