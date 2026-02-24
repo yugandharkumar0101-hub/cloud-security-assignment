@@ -25,6 +25,13 @@ These images were exported from Figma for quick preview.
 
 ### Alert Investigation
 ![Alert Investigation](wireframes/screen2.png)
+cloud-security-assignment/
+│
+├── README.md
+├── wireframes/
+│   ├── screen1.png
+│   ├── screen2.png
+│   └── screen3.png
 
 
 
