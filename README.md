@@ -6,9 +6,6 @@ Explore the interactive design:
 
 ---
 
-## 🧠 User Persona
-Security engineers responsible for investigating and resolving cloud security alerts and managing IAM permissions.
-
 
 
 
